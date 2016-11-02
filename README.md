@@ -2,6 +2,12 @@
 
 This repo is an X-Tag custom web-component creating a glitch effect.
 
+## Installation
+
+```
+bower install x-tag-glitch
+```
+
 # Usage
 
 ```html
