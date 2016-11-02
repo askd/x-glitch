@@ -1,4 +1,4 @@
-# About
+## About
 
 This repo is an X-Tag custom web-component creating a glitch effect.
 
@@ -8,17 +8,17 @@ This repo is an X-Tag custom web-component creating a glitch effect.
 bower install x-tag-glitch
 ```
 
-# Usage
+## Usage
 
 ```html
 <x-glitch src="awesome.jpg"></x-glitch>
 ```
 
-# Demo
+## Demo
 
 http://askd.github.io/glitch/
 
-# Links
+## Links
 
 [X-Tags Docs](http://x-tags.org/docs)
 
