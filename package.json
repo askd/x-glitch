@@ -1,7 +1,7 @@
 {
   "name": "x-glitch",
   "description": "X-Tag custom web-component creating a glitch effect",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Anna Selezniova",
   "dependencies": {},
   "devDependencies": {
