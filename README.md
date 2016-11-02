@@ -2,6 +2,10 @@
 
 This repo is an X-Tag custom web-component creating a glitch effect.
 
+# Demo
+
+http://askd.github.io/glitch/
+
 # Links
 
 [X-Tags Docs](http://x-tags.org/docs)
