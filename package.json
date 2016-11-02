@@ -1,0 +1,12 @@
+{
+  "name": "x-glitch",
+  "description": "X-Tag custom web-component creating a glitch effect",
+  "version": "0.0.0",
+  "author": "Anna Selezniova",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "~1.7.7",
+    "grunt": "~0.4.5",
+    "grunt-smush-components": "~0.2.0"
+  }
+}
